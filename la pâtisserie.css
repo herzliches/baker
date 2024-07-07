@@ -12,7 +12,7 @@ overflow: hidden;}
 #nav-bar ul{padding: 0;list-style: none;}
 #nav-bar li{display: inline-block;}
 #nav-bar a{text-decoration: none;color: rgb(75, 74, 74);font-size: 18px;font-weight: 600;padding-right: 16px;}
-#box {background: url(img/p.jpeg);background-size: cover;min-height: 300px;
+#box {background: url(p.jpeg);background-size: cover;min-height: 300px;
     background-position: right bottom;margin-bottom: 30PX;text-align: center;}
 #box h1 {line-height: 1.6em;
 font-size: 50px;padding-top: 50px;}
